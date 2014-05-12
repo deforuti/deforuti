@@ -1,0 +1,11 @@
+void setup()
+{
+ size(1280,720);
+ background(244,135,144);
+ strokeWeight(50); 
+line(0,0,1280,720);
+strokeWeight(50); 
+line(1280,0,0,720);
+
+
+}
